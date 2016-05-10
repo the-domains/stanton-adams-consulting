@@ -1,0 +1,28 @@
+name: Stanton Adams Consulting
+favicon: null
+layout_spectrum: 0.501445981906727
+typography_spectrum: 0.8718663733452559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7140589670743793
+  lightness: 0.5666501533705741
+  saturation: 0.6278762901201844
+  rhythmicContrast: 0.6276910859160125
+purpose: []
