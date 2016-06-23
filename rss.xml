@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stanton Adams Consulting]]></title>
+        <description><![CDATA[Stanton Adams Consulting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 17:37:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Managing a Diverse Workforce]]></title>
+            <description><![CDATA[<article><h1>Managing a Diverse Workforce</h1><p>When you hear the word diversity, what do you think of? Race first perhaps, then gender? Age maybe? I encourage you to look past the physical characteristics of a person and into his/her personal culture - that is their values, beliefs, and attitudes. Those areas are what contribute to the workplace and understanding how to manage a team who differs in culture is critical to an effective organization as you will rely on high performing, low-chaos environments.</p></article>]]></description>
+            <link>undefinedmanaging-a-diverse-workforce/index.html</link>
+            <guid isPermaLink="false">a12ef5fa-dc39-47ff-a403-53ba8e5c0407</guid>
+            <pubDate>Thu, 23 Jun 2016 17:37:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
