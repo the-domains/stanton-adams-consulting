@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Stanton Adams Consulting]]></title>
         <description><![CDATA[Stanton Adams Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stanton-adams-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 17:37:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Jun 2016 17:41:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stanton-adams-consulting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2272505a-aa37-4fb9-bacc-4292f88fc9f3.png">]]></description>
+            <link>https://thegrid.ai/stanton-adams-consulting/our-trainers/index.html</link>
+            <guid isPermaLink="false">7b2f5747-4b9b-4bb0-9222-1ce29f18c239</guid>
+            <pubDate>Thu, 23 Jun 2016 17:41:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Managing a Diverse Workforce]]></title>
             <description><![CDATA[<article><h1>Managing a Diverse Workforce</h1><p>When you hear the word diversity, what do you think of? Race first perhaps, then gender? Age maybe? I encourage you to look past the physical characteristics of a person and into his/her personal culture - that is their values, beliefs, and attitudes. Those areas are what contribute to the workplace and understanding how to manage a team who differs in culture is critical to an effective organization as you will rely on high performing, low-chaos environments.</p></article>]]></description>
-            <link>undefinedmanaging-a-diverse-workforce/index.html</link>
+            <link>https://thegrid.ai/stanton-adams-consulting/managing-a-diverse-workforce/index.html</link>
             <guid isPermaLink="false">a12ef5fa-dc39-47ff-a403-53ba8e5c0407</guid>
             <pubDate>Thu, 23 Jun 2016 17:37:29 GMT</pubDate>
         </item>
